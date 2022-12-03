@@ -1,0 +1,8 @@
+es\ua\eps\hibernate\model\Perfil.class
+es\ua\eps\hibernate\util\HibernateUtil.class
+es\ua\eps\hibernate\querying\Ejercicio4.class
+es\ua\eps\hibernate\model\Usuario.class
+es\ua\eps\hibernate\model\InformacionPublica.class
+es\ua\eps\hibernate\model\Conexion.class
+es\ua\eps\hibernate\main\HibernateMain.class
+es\ua\eps\hibernate\model\Sigue.class
